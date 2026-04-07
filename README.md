@@ -11,18 +11,18 @@
 
 ---
 
-### `// github stats`
+### `// top languages · auto-detected from commits`
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=arthurhrc&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhrc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
 </div>
 
 ---
 
-### `// top languages · auto-detected from commits`
+### `// github stats`
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurhrc&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurhrc&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
 </div>
 
 ---

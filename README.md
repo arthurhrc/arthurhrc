@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurhrc&color=blue&style=for-the-badge"/>
   <h1>Hi, I'm Arthur 👋</h1>
   <p> · Full Stack Developer · </p>
 </div>
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </div>
-
 
 ---
 

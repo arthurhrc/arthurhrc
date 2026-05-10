@@ -33,6 +33,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [Kardec](https://github.com/arthurhrc/kardec) | Lib Go para gerar PDFs document-style com fontes embutidas, AES-128, PKCS#7 ICP-Brasil e PDF/UA strict — zero dependência de runtime | Go · stdlib · OFL |
 | [Stride](https://github.com/arthurhrc/stride) | Plataforma de gestão ágil com Kanban, Scrum, OKR e Business Canvas | Next.js · TypeScript · PostgreSQL |
 | [PairPocket](https://github.com/arthurhrc/pairpocket) | Controle financeiro para casais com metas e gráficos | Next.js · TypeScript · Recharts |
 | [Busquei](https://github.com/arthurhrc/busquei) | Clone do Google Search com Google Custom Search API | JavaScript · CSS |
